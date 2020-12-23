@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="mqtt_play.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mqttIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="mqttDeviceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mqttControlledComputer</Value>
+    </Setting>
+    <Setting Name="mqttPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1883</Value>
+    </Setting>
+    <Setting Name="mqttUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user</Value>
+    </Setting>
+    <Setting Name="mqttPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pass</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
